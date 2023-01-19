@@ -52,4 +52,5 @@ $(function () {
   $('#hour-15').children('textarea').val(localStorage.getItem('hour-15'))
   $('#hour-16').children('textarea').val(localStorage.getItem('hour-16'))
   $('#hour-17').children('textarea').val(localStorage.getItem('hour-17'))
+  
 });
