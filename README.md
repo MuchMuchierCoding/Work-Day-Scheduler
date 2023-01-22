@@ -6,7 +6,7 @@
 
 ## Website Preview
 
-![Image of the page with stored data](.Assets/Work-Day-Scheduler.png)
+![Image of the page with stored data](/Assets/Work-Day-Scheduler.png)
 
 
 ## Authors and Acknowledgement
